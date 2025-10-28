@@ -1,0 +1,8 @@
+@media screen and (max-width: 1200px) { /* when the screen is 1200px or less desktop nav doesn not appear */
+    #desktop-nav {
+        display: none;
+    }
+    #hamburger-nav {
+        display: flex;
+    }
+}
